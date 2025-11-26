@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" />
-</p>
-
 # pbixtrans: Translate a PBIX report visuals into another language
 
 **pbixtrans** is a command-line tool for translating Power BI (`.pbix`) visuals into different languages.
