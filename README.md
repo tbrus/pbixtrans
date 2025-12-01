@@ -37,7 +37,7 @@ pip install -e .
 Translate `report.pbix` to `pl`:
 
 ```bash
-pbixtrans report.pbix pl
+pbixtrans -f report.pbix -l pl
 ```
 
 This will create `report_pl.pbix` in the same directory.
