@@ -12,6 +12,7 @@
 
 - ✅ Report page names
 - ✅ Textbox content
+- ✅ Action Button text
 - ⏳ *(more coming soon)*
 
 ## Installation
