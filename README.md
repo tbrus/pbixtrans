@@ -13,6 +13,7 @@
 - ✅ Report page names
 - ✅ Textbox content
 - ✅ Action Button text
+- ✅ Slicer text
 - ⏳ *(more coming soon)*
 
 ## Installation
