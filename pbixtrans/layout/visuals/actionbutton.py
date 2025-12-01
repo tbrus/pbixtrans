@@ -22,7 +22,7 @@ def translate_actionbutton(single_visual: dict[str, Any], dst_lng: str) -> None:
             .get('Literal', {})
         )
         val = properties.get("Value", "")
-        if isinstance(val, str) and val.strip():
+        if isinstance(val, str) and val.strip() and val.strip("'"):
             translated_val = "'" + translate(val.strip("'"), dst_lng) + "'"
             print(f"Action Button: '{val}' -> '{translated_val}'")
             properties["Value"] = translated_val
