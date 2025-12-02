@@ -14,6 +14,7 @@
 - ✅ Textbox content
 - ✅ Action Button text
 - ✅ Slicer text
+- ✅ Shape text
 - ⏳ *(more coming soon)*
 
 ## Installation
