@@ -12,6 +12,9 @@ dependencies = [
     "googletrans==4.0.0-rc1",
 ]
 
+[project.urls]
+Homepage = "https://github.com/tbrus/pbixtrans"
+
 [project.scripts]
 pbixtrans = "pbixtrans.cli:main"
 
